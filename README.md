@@ -1,5 +1,5 @@
 ### EX NO : 02
-### DATE
+### DATE:
 # <p align="center"> BINARY CALSSIFICATION
 
 
