@@ -53,6 +53,13 @@ for label, _ in counter.items():
 pyplot.legend()
 pyplot.show()
 ```
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ## Output:
 ![binary classification plot](123.png)
 
